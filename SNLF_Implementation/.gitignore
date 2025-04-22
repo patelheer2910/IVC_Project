@@ -1,0 +1,10 @@
+# Virtual environment
+venv/
+__pycache__/
+
+# Data files
+*.csv
+*.pth
+
+# Cached files
+*.pyc
